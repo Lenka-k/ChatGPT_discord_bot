@@ -103,4 +103,4 @@
     
    2. paste it into `.env` under `DISCORD_CHANNEL_ID`
 
-Created with Love
+Made with Love
